@@ -5,7 +5,7 @@ Predicting house prices in the US from property features using a Linear Regressi
 ## Dataset
 
 - **Size:** 50,000 houses, 8 features plus the target (`Price_USD`)
-- **Source:** _add the dataset source or link here_
+- **Source:** [House Prices dataset on Kaggle](https://www.kaggle.com/datasets/prince7489/house-prices)
 - **File:** `data/house_prices.csv`
 
 | Feature | Type | Description |
